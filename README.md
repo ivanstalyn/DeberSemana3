@@ -10,6 +10,6 @@ Adjuntar:
 
 Datos de conexión:
 
-Usuario: usuario01
+Usuario: estudiante
 
-Clave: clavesecreta123
+Clave: 1234567890
